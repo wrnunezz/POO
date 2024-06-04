@@ -7,7 +7,7 @@ class CuentaBancaria:
         if cantidad > 0:
             self.__saldo += cantidad
         else:
-            print("La cantidad a depositar debe ser positiva.")
+            print("La cantidad a depobvsitar debe ser positiva.")
 
     def retirar(self, cantidad):
         # Lógica para retirar dinero de la cuenta
