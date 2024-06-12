@@ -1,6 +1,6 @@
 class CuentaBancaria:
     def __init__(self, saldo_inicial):
-        self.__saldo = saldo_inicial  # Usamos __ para hacer el atributo privado
+        self.__saldo = saldo_inicial  # __ para hacer el atributo privado
 
     def depositar(self, cantidad):
         # Lógica para depositar dinero en la cuenta

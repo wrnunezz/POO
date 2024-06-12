@@ -23,3 +23,8 @@ persona2.saludar()  # Salida: Hola, mi nombre
 print(persona1.edad)  # Salida: 30
 persona1.cumplir_anios()
 print(persona1.edad)  # salida :
+
+print(persona1.nombre)
+print(persona2.nombre)
+
+#############################################
