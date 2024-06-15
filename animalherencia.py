@@ -22,7 +22,7 @@ dog = Dog("Peluchin",5,5)
 cat = Cat("Negro",6,5)
 dog.eat()
 print(dog.peso)
-#print(dog.ladrido)
+print(dog.ladrido)
 
 
 
