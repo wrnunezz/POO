@@ -7,6 +7,7 @@ class Moto(Vehiculo):
     def dezplazamiento(self):
         print("Dezplazamiento de 2 Ruedas")
 
+
 class Camion(Vehiculo):
     def dezplazamiento(self):
         print("Dezplazamiento de 6 Ruedas")
